@@ -4,14 +4,14 @@ import {fileURLToPath} from 'url';
 import fs from 'fs'; 
 import moment from 'moment-timezone';
 
-global.botnumber = "2126xxxxxxxx" // هنا أضف رقمك
+global.botnumber = "963986404223" // هنا أضف رقمك
 
 global.owner = [
-  ['2126xxxxxxxx', '☪ ISLAMIC-WHATSAPP-BOT ☪', false]
+  ['963959649663', '☪ ISLAMIC-WHATSAPP-BOT ☪', false]
 ];
 
-global.suittag = ['2126xxxxxxxx'];
-global.prems = ['2126xxxxxxxx'];
+global.suittag = ['963959649663'];
+global.prems = ['963959649663'];
 
 
 global.packname = '♛ 𝙈𝙞𝙙𝙨𝙤𝙪𝙣𝙚'
